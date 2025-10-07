@@ -18,7 +18,7 @@ Sub-questions:
   
 **Workflow:**  
   
-### Web scraping --> Raw CSVs --> Cleaning & Normalization (Python) --> Feature Engineering (Google Sheets) --> Pivot Tables & Aggregation --> Visualization & Insights  
+### Web scraping **-->** Raw CSVs **-->** Cleaning & Normalization **-->** Feature Engineering **-->** Pivot Tables & Aggregation **-->** Visualization & Insights  
   
 **Tech Stack:**  
   
