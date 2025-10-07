@@ -19,7 +19,7 @@ Sub-questions:
 **Workflow:**  
   
 ### Web scraping **-->** Raw CSVs **-->** Cleaning & Normalization **-->** Feature Engineering **-->** Pivot Tables & Aggregation **-->** Visualization & Insights  
-[Open Full Notebook](notebook/amazon_toy_market_analysis.ipynb)
+[Open Full Notebook (Jupyter)](notebook/amazon_toy_market_analysis.ipynb)
   
 **Tech Stack:**  
   
