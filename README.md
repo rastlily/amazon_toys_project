@@ -2,19 +2,11 @@
   
 **Goal:**  
   
-Provide actionable insights into toy pricing, popularity, and category positioning to optimize sales.  
+Provide actionable insights to optimize toy sales.  
 
 **Problem Statement:**    
   
-Which toy categories have the highest potential for sales considering price segments, popularity and positioning? 
-  
-Sub-questions:  
-   - How do prices and discounts differ across categories? 
-   - Which categories are most popular and why? 
-   - Which categories are most popular and why?  
-   - Where is the best balance of price vs value (value for money)? 
-   - How are categories positioned via keywords (emotional, Montessori, eco)?   
-   - Where are anomalies or super-hit products?  
+Identify toy categories with the highest sales potential across different price segments and customer preferences.
   
 **Workflow:**  
   
@@ -25,7 +17,7 @@ Sub-questions:
   
 Python, Selenium, Pandas, NumPy, Google Sheets / Excel, PowerPoint / Google Slides  
   
-**Insights (Summary Table)**  
+**Summary Table**  
   
 | Category    | Key Insights                                                                 |
 |------------|-----------------------------------------------------------------------------|
