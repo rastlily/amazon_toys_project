@@ -22,8 +22,7 @@ Python, Selenium, Pandas, NumPy, Google Sheets / Excel, PowerPoint / Google Slid
 **Visualization & Insights:**  
 
 - Project insights available in the presentation: [View Presentation (PDF)](presentation/Amazon_toy_analysis_2025.pdf)  
-
-![Project Slide](presentation/Amazon_toy_analysis_2025.png)  
+ 
 ![Project Slide](presentation/Amazon_toy_analysis_1_2025.png)  
 
 - Summary Table: 
