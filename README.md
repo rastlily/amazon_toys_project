@@ -17,7 +17,7 @@ Identify toy categories with the highest sales potential across different price 
   
 Python, Selenium, Pandas, NumPy, Google Sheets / Excel, PowerPoint / Google Slides  
   
-**Summary Table**  
+**Summary Table:**  
   
 | Category    | Key Insights                                                                 |
 |------------|-----------------------------------------------------------------------------|
