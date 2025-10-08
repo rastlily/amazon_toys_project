@@ -16,18 +16,20 @@ Identify toy categories with the highest sales potential across different price 
 **Tech Stack:**  
   
 Python, Selenium, Pandas, NumPy, Google Sheets / Excel, PowerPoint / Google Slides  
-  
-**Summary Table:**  
+
+**Visualization & Insights**  
+
+- Project insights available in the presentation: [View Presentation (PDF)](presentation/Amazon_toy_analysis_2025.pdf)  
+
+![Project Slide](presentation/Amazon_toy_analysis_2025.png)  
+
+- Summary Table: 
   
 | Category    | Key Insights                                                                 |
 |------------|-----------------------------------------------------------------------------|
 | Baby       | Mass-market, dependent on hits, emotional triggers, low median value        |
 | Sustainable| Budget-friendly, stable demand, high value for money, partially eco, low educational focus |
 | Wooden     | Premium, stable popularity, Montessori + Eco positioning, partially sold via discounts, high intrinsic value |  
-  
-[View Presentation (PDF)](presentation/Amazon_toy_analysis_2025.pdf)  
-
-![Project Slide](presentation/Amazon_toy_analysis_2025.png)  
   
 **Files & Structure:**  
   
