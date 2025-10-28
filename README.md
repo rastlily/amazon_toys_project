@@ -12,7 +12,7 @@ Identify toy categories with the highest sales potential across different price 
   
 ### Web scraping **-->** Raw CSVs **-->** Cleaning & Normalization **-->** Feature Engineering **-->** Pivot Tables & Aggregation **-->** Visualization & Insights  
 
-- Follow the step-by-step data processing and analysis in the project notebook: [Open Full Notebook](notebook/amazon_toy_market_analysis.ipynb)
+Follow the step-by-step data processing and analysis in the project notebook: [Open Full Notebook](notebook/amazon_toy_market_analysis.ipynb)
   
 **Tech Stack:**  
   
