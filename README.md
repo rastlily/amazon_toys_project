@@ -16,7 +16,7 @@ Follow the step-by-step data processing and analysis in the project notebook: [O
   
 **Tech Stack:**  
   
-Python, Selenium, Pandas, NumPy, Google Sheets / Excel, PowerPoint / Google Slides  
+Python, Selenium, Pandas, NumPy, Google Sheets, Google Slides  
 
 **Visualization & Insights:**  
 
