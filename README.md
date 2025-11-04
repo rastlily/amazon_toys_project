@@ -34,10 +34,10 @@ Python, Selenium, Pandas, NumPy, Google Sheets, Google Slides
   
 **Files & Structure:**  
   
-- `data/` – raw and cleaned datasets  
-- `notebook/` – analysis notebook  
-- `scripts/` – Python scripts for scraping and cleaning  
-- `presentation/` – final slides PDF  
+- `data/` - raw and cleaned datasets  
+- `notebook/` - analysis notebook  
+- `scripts/` - Python scripts for scraping and cleaning  
+- `presentation/` - final slides PDF  
   
 **Author:**  
   
